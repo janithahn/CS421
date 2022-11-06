@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="InstrumentationAgent:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/InstrumentationAgent_jar</output-path>
+    <root id="archive" name="InstrumentationAgent.jar">
+      <element id="module-output" name="InstrumentationAgent" />
+    </root>
+  </artifact>
+</component>

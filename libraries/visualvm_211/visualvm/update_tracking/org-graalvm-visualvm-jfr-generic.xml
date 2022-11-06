@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.graalvm.visualvm.jfr.generic/2">
+    <module_version install_time="1632163505182" last="true" origin="installer" specification_version="2.2">
+        <file crc="3854287214" name="config/Modules/org-graalvm-visualvm-jfr-generic.xml"/>
+        <file crc="1482955189" name="modules/ext/common-8.0.1.jar"/>
+        <file crc="3885242037" name="modules/ext/encoder-1.2.2.jar"/>
+        <file crc="4253165579" name="modules/ext/flightrecorder-8.0.1.jar"/>
+        <file crc="2735890114" name="modules/ext/lz4-java-1.7.1.jar"/>
+        <file crc="2531504776" name="modules/org-graalvm-visualvm-jfr-generic.jar"/>
+    </module_version>
+</module>
